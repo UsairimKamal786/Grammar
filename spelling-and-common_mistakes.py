@@ -18,7 +18,7 @@ Even great grammar fails if words are misspelled.
 | untill    | until |
 | wierd     | weird |
 
-**Tip:** Remember: “i before e except after c”… mostly 😉
+**Tip:**  Remember: “i before e except after c”… mostly 😉
 
 ---
 
